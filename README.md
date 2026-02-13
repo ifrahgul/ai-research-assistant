@@ -25,21 +25,21 @@ A **Streamlit-based AI Research Assistant** that fetches academic papers from **
 
 git clone https://github.com/ifrahgul/ai-research-assistant.git
 cd ai-research-assistant
----
-## Create a virtual environment (recommended):
- python -m venv venv
 
-##  Activate the environment:
+2. Create a virtual environment (recommended):
+*python -m venv venv*
+
+3. Activate the environment:
   
-  Windows:
+4. Windows:
  - venv\Scripts\activate
 ---
 ## Setup OpenAI API Key
 Create a .env file in the project root:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ---
-Run the App
-## streamlit run app.py
+## Run the App
+streamlit run app.py
 
 - Enter your research topic
 - Select number of papers
