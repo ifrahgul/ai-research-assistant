@@ -33,11 +33,11 @@ cd ai-research-assistant
   
 4. Windows:
  - venv\Scripts\activate
----
+----
 ## Setup OpenAI API Key
 Create a .env file in the project root:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
----
+----
 ## Run the App
 streamlit run app.py
 
