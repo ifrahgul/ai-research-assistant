@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Generated images
+generated_images/
+
+# Cache / temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF output
+*.pdf

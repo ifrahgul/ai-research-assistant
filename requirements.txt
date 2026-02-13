@@ -1,0 +1,7 @@
+streamlit 
+openai 
+requests 
+feedparser 
+fpdf 
+deep-translator 
+python-dotenv    
